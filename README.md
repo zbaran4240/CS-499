@@ -7,6 +7,13 @@ as well as databases.
 
 The chosen improved artifacts will help to establish a quality of work by addressing their limitations or iconsistencies as well as mitigating their security vulnerabilities. This ePortfolio will reflect my strong motivation, organization, and accomplishments towards the Computer Science degree.
 
+## Course Outcomes
+In this ePortfolio I will demonstrate the following course outcomes:
+* Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+* Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choice
+* Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+* Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
 ## Self-Reflections
 ### [Journal: Self-Introduction](https://github.com/zbaran4240/CS-499/blob/main/Baran_CS499ModuleOneAssignmentTemplate.docx)
 In this journal is an informative self-introduction to my personal experiences as I progressed through the computer science degree at Southern New Hampshire University. It reflects my personal opinions and viewpoints in regards to computer scince concepts and materials.
@@ -40,3 +47,12 @@ I selected the project because it is an example of how a database is constructed
 The course objectives that were a focus in this enhancment were using well founded tenchiques and skills to develop a more complex artifact as well as using techniques to build a collaboritve environment that can be interacted with by diverse audiences.
 
 Enhancing this artifact taught me to deepen my appreciation for the usefulness of SQL commands. It also taught me how much a project can be approved just by adding more functionality. SQL was something that came rather easy to me, so I did not have any real difficulty in updating this artifact.
+
+
+## Professional Self-Assessment:
+Completing the Computer Science Bachelors program has been an incredible growing and hubmling experience both academically and personally. Over the course of the program I was able to refine my technical knowledge and skills that are essential to succeed in the computer science field. In addition to this my academic journal helped me to realize my professional identity as well as my career goals. This ePortfolio is an opportunity to display what I have learned, highlight was individual talents, and reflect on how my schooling as prepared me for a professional work setting. 
+
+Throughout the degree I encountered a wide range of topics that collectively contribute to a well-rounded computer science proffesional. I have learned to approach problem solving systematically as well as efficiently. The projects displayed above as well as others I have completed during my time at SNHU have taught me to think critically while creating and designing scalable solutions. All which are extremely important skills in software development and system design.  Working through the full software development life cycle, from requirements gathering from stakeholders to deployment, I have become comfortable with version control systems such as Git, collaborative development tools, and agile methodologies. One particularly impactful project was Artifact One mentioned in this ePortfolio. This project had me recreate a picture of household items into a 3-D scene. This helped to enhance my understanding of how 3-D objects are created and manipulated through code. 
+
+Cybersecurity was another key focus of my courses. Through hands-on learning I developed a strong foundation as well as an understanding of the importance in secure coding practices. These skills are important now more than ever with the increased amount of data breaches. Using proper securing coding practices in each stage of development, I am confident in my ability to properly protect important personal information.
+
