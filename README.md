@@ -40,7 +40,7 @@ The course objectives that were completed for this project was improving the com
 Enchancing this article taught me the importance of improving the complexity of an artifact. Adding the additional SQL commands showed me how much more can be done with a specific program. The only thing I struggled with this enhancement was with revisiting the material. It took me sometime to familiarize myself with the skills I used to create this project but once that was done I found the enhancements reasonable in difficulty. 
 
 ### [Enhancement Two Link](https://github.com/zbaran4240/CS-499/blob/main/updated_animal_shelter.py)
-* [Original Source for enhancement two](https://github.com/zbaran4240/CS-499/blob/main/animal_shelter.py)
+* [Original Source for Enhancement Two](https://github.com/zbaran4240/CS-499/blob/main/animal_shelter.py)
 
 ## Enhancement Three: Databases
 The artifact that I chose to demonstrate my skills with databases was also my project from CS-340. This project was created with python and was designed to interact witgh pymongo to work as the back-end structre for an interactive database for animal rescue centers. The project demonstrated basic CRUD functionality. After the enhancements the artifact was improved to use more advance SQL functions.
@@ -51,8 +51,8 @@ The course objectives that were a focus in this enhancment were using well found
 
 Enhancing this artifact taught me to deepen my appreciation for the usefulness of SQL commands. It also taught me how much a project can be approved just by adding more functionality. SQL was something that came rather easy to me, so I did not have any real difficulty in updating this artifact.
 
-### [Enhancement Two Link](https://github.com/zbaran4240/CS-499/blob/main/updated_animal_shelter.py)
-* [Original Source for enhancement two](https://github.com/zbaran4240/CS-499/blob/main/animal_shelter.py)
+### [Enhancement Three Link](https://github.com/zbaran4240/CS-499/blob/main/updated_animal_shelter.py)
+* [Original Source for Enhancement Three](https://github.com/zbaran4240/CS-499/blob/main/animal_shelter.py)
 
 
 ## Professional Self-Assessment:
