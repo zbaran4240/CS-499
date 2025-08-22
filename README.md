@@ -28,6 +28,8 @@ This project was selected because it is a representation of software application
 
 I learned that there are a vast amount of resources that can be used to enhance your code as well as learn new techniques. The challenges I faced with this improvement was minimal, as I felt I had a firm idea on what and how I wanted to improve the project.The course objectives that were met in this project were mainly building a collaborative environment as well and using well founded techniques and skills. 
 
+### [Enhancement One Link](https://github.com/zbaran4240/CS-499/blob/main/Source.cpp)
+
 ## Enhancement Two: Algorithms and Data Structures
 The artifact that I chose to demonstrate my skills with algorithms and Data Structures was a project from CS-340. This project was created with python and was designed to interact witgh pymongo to work as the back-end structre for an interactive database for animal rescue centers. The project demonstrated basic CRUD functionality. After the enhancements the artifact was improved to use more advance SQL functions.
 
@@ -36,6 +38,8 @@ I chose this project because it is an example of secure coding practices that ar
 The course objectives that were completed for this project was improving the complexity using well founded techniques and skills as well as developing a security mindset thaty anticipates adversarial exploits in software design. 
 
 Enchancing this article taught me the importance of improving the complexity of an artifact. Adding the additional SQL commands showed me how much more can be done with a specific program. The only thing I struggled with this enhancement was with revisiting the material. It took me sometime to familiarize myself with the skills I used to create this project but once that was done I found the enhancements reasonable in difficulty. 
+
+## [Enhancement Two Link](https://github.com/zbaran4240/CS-499/blob/main/updated_animal_shelter.py)
 
 ## Enhancement Three: Databases
 The artifact that I chose to demonstrate my skills with databases was also my project from CS-340. This project was created with python and was designed to interact witgh pymongo to work as the back-end structre for an interactive database for animal rescue centers. The project demonstrated basic CRUD functionality. After the enhancements the artifact was improved to use more advance SQL functions.
